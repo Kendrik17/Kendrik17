@@ -11,11 +11,6 @@
 - 📫Você me acha através do e-mail kendrikatx1@gmail.com
 
 
-
-![kendrik17 GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrik17&count_private=true)
-
-
-
 ## Tecnologias do meu dia a dia
 
 
@@ -27,4 +22,3 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendrik17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

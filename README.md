@@ -4,10 +4,10 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kendrik17/)
 
 - 🔭 Eu estou trabalhado como inspetor de qualidades no momento.
-- 🌱 Estou estudando Python e Machine learning pelo Alura.
+- 🌱 Estou estudando UX UI Design na Cubos Academy.
 - ❤️ Gestão, alto conhecimento e evolução pessoal.
 - 😄 Pronouns: ele/dele
-- 💬 me pergunte sobre: Python, MYSQL e Excel
+- 💬 me pergunte sobre: UX UI Design
 - 📫Você me acha através do e-mail kendrikatx1@gmail.com
 
 

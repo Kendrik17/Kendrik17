@@ -11,7 +11,7 @@
 - 📫Você me acha através do e-mail kendrikatx1@gmail.com
 
 
-## Tecnologias do meu dia a dia
+## Tecnologias
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)

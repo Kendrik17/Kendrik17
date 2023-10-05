@@ -1,11 +1,15 @@
 ## Olá eu sou Kendrik Gomes
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendrik17)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kendrik17/)
 
 - 🔭 Eu estou trabalhado como inspetor de qualidades no momento.
-- 🌱 Estou estudando UX UI Design na Cubos Academy.
-- ❤️ Gestão, alto conhecimento e evolução pessoal.
+- 🌱 UX UI Designer / Front and 
+- ❤️ Comunicação e evolução pessoal.
 - 😄 Pronouns: ele/dele
 - 💬 me pergunte sobre: UX UI Design
 - 📫Você me acha através do e-mail kendrikatx1@gmail.com
